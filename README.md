@@ -1,7 +1,8 @@
 # Hi there 👋 I'm Adekunle Alamin Olamide
 
+### I'm a front-end web developer
 <!--
-**dknolamide/dknolamide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
